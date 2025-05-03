@@ -1,0 +1,34 @@
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
+E:\WorkSpaceAD\YOUTUBE\115 SISTEMA BIBLIOTECA NET 8\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\lizet\Downloads\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\115_SistemaBiblioteca_Net8_ADO.NET_NCapas-main\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.deps.json
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\bin\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfoInputs.cache
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.AssemblyInfo.cs
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.sourcelink.json
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.dll
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\refint\BibliotecaEntidades.dll
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\BibliotecaEntidades.pdb
+C:\Users\lizet\source\repos\SistemaBiblioteca\BibliotecaEntidades\obj\Debug\net8.0\ref\BibliotecaEntidades.dll
